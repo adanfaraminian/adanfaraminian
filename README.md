@@ -3,12 +3,13 @@
 - I work as Doctoral Researcher. I'm advanced PhD student in Applied Science
 
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning... 
+  
+  Big Data/Data Science/Data Engineering Jobs:
+    * 
 
 - 🌱 I’m currently working in Machine Learning Project apply to research/agricultural
 
-    _Works:_
-
-    [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="drawing" width="30"/>](https://www.researchgate.net/profile/Adan-Faraminan)
+    _Research Jobs:_   [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="drawing" width="30"/>](https://www.researchgate.net/profile/Adan-Faraminan)
 
 - 💞️ I’m looking to collaborate on Data engineer/sciences projects
 - 📫 How to reach me:
