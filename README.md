@@ -1,15 +1,19 @@
 ## 👋 Hi, I’m @adanfaraminian👋
 
-- I work as Doctoral Researcher. I'm advanced PhD student in Applied Science
-
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning... 
-  
-  Big Data/Data Science/Data Engineering Jobs:
-    * 
+- 🖥️ I'm Doctoral Researcher and I work as Data Scientist. I'm finishing a PhD in Applied Science
 
 - 🌱 I’m currently working in Machine Learning Project apply to research/agricultural
 
-    _Research Jobs:_   [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="drawing" width="30"/>](https://www.researchgate.net/profile/Adan-Faraminan)
+    _Scientific articles:_   [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="drawing" width="30"/>](https://www.researchgate.net/profile/Adan-Faraminan)
+
+
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning... 
+  
+    _Big Data/Data Science/Data Engineering Jobs:_
+    
+        [Pizza shop data](https://github.com/adanfaraminian/Pizza_shop_data)
+        [Past loans data](https://github.com/adanfaraminian/DataScience_challenge)
+        
 
 - 💞️ I’m looking to collaborate on Data engineer/sciences projects
 - 📫 How to reach me:
