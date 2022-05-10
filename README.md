@@ -12,6 +12,7 @@
     _Big Data/Data Science/Data Engineering Jobs:_
     
      [Pizza shop data](https://github.com/adanfaraminian/Pizza_shop_data)
+     
      [Past loans data](https://github.com/adanfaraminian/DataScience_challenge)
         
 
