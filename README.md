@@ -1,8 +1,10 @@
 ## 👋 Hi, I’m @adanfaraminian👋
 
+- 👨‍💻 My names is Adán M. G. Faramiñán and I'm from Argentina 
+
 - 🖥️ I'm Doctoral Researcher and I work as Data Scientist. I'm finishing a PhD in Applied Science
 
-- 🌱 I’m currently working in Machine Learning Project apply to research/agricultural
+- 🌱 I’m currently working in Machine Learning Project apply to research/agricultural problems
 
     _Scientific articles:_   [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="drawing" width="30"/>](https://www.researchgate.net/profile/Adan-Faraminan)
 
